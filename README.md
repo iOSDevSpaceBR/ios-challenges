@@ -1,5 +1,5 @@
 
-<h1 align="center">iOS Space Challenges</h1><br/>
+<h1 align="center">iOS Challenges</h1><br/>
 
 ## Introdução 🏁
 Este é o repositório da comunidade iOS Dev Space com desafios técnicos que vão te ajudar a passar entrevistas para vaga de iOS.
